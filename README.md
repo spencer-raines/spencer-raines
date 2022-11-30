@@ -11,3 +11,8 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=spencer-raines&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  Thanks for Viewing my Profile!
+  <img src="https://media4.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif?cid=ecf05e47oghcyvsxbrj1jlcs1919o2bwj95nqpax2q22apra&rid=giphy.gif&ct=g" width="30px"/>
+</h1>
