@@ -16,3 +16,7 @@
   Thanks for Viewing my Profile!
   <img src="https://media4.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif?cid=ecf05e47oghcyvsxbrj1jlcs1919o2bwj95nqpax2q22apra&rid=giphy.gif&ct=g" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47z31anfm4tr213llfrkc8532kbm85v9hdih7u15qv&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
