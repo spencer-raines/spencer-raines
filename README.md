@@ -20,3 +20,6 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47z31anfm4tr213llfrkc8532kbm85v9hdih7u15qv&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
+
+### :man_technologist: About Me :
+I am a Full-Time Cybersecurity student at UTSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Antonio Texas.
